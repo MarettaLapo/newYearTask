@@ -1,3 +1,3 @@
 import { countDays } from "./method.js";
 
-console.log(countDays(new Date()))
+console.log(countDays(new Date()));
